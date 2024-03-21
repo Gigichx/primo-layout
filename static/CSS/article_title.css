@@ -1,0 +1,11 @@
+.article-title h2 {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.article-paragraph1 {
+    font-family: monospace;
+    font-size: 18px;
+    /* line-height: 24;*/
+}
