@@ -5,7 +5,9 @@
 }
 
 .article-paragraph1 {
-    font-family: monospace;
+    font-family: 'Overpass Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
     font-size: 18px;
-    /* line-height: 24;*/
+    line-height: 24px;
 }
