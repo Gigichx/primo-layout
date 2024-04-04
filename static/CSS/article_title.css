@@ -7,17 +7,14 @@
 .article-paragraph1 {
     font-family: 'Overpass Mono', monospace;
     font-style: normal;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 18px;
     line-height: 24px;
-    margin: 80px;
+    margin-top: 80px;
 }
 
 .signature h3 {
     font-family: 'Overpass Mono', monospace;
     font-weight: bold;
-}
-
-body {
-    background-color: #FFFEF0;
+    margin-top: 35px;
 }
